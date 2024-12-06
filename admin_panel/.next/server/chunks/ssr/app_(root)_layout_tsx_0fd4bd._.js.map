@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/tejashsingh/Developer/btp_bew/admin/app/%28root%29/layout.tsx"],"sourcesContent":["const layout = ({children} : {children:React.ReactNode})=>{\n    return(\n        <div>\n            {children}\n        </div>\n    )\n}\n\nexport default layout;"],"names":[],"mappings":";;;;;AAAA,MAAM,SAAS,CAAC,EAAC,QAAQ,EAA8B;IACnD,qBACI,8OAAC;kBACI;;;;;;AAGb;uCAEe"}},
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
